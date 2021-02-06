@@ -13,7 +13,7 @@ The presentation was put together in PowerPoint and later converted to a PDF for
 ## Data
 All respective data sets were pulled from kaggle.com or data.gov. The data.gov dataset was in regards to food consumption while all kaggle datasets were compilations of various USDA, food.com, McDonalds and other datasets for ease of access. The presentation highlights the original sources of the data used for each portion of the project.
 
-The recipes and user intreaction datasets were too large, we had to put in a drive and save it locally to run the scripts. Please find the links for the respectve datasets below prior to running the notebooks.
+The recipes and user intreaction datasets were too large so we had to put in a drive and save it locally to run the scripts. Please find the links for the respectve datasets below prior to running the notebooks.
 
 [Reviews & Interactions Link](https://drive.google.com/file/d/1mUidiQSvwrK3rDyoc94vM7owyUphSJ7K/view?usp=sharing "Reviews & Interactions Link") & [Recipes Link](https://drive.google.com/file/d/1X-ql9B4xjRIPa3Sa7kJTzEXekW6pBand/view?usp=sharing "Recipes Link")
 
@@ -21,15 +21,15 @@ The recipes and user intreaction datasets were too large, we had to put in a dri
 ## Notebooks 
 There are a total of three notebooks, a Combined_Work, Priya's Notebook, & Yash's Notebook. 
 
-Combined_work.ipynb is under the Combined_work folder and is a compilation of Susmitha's, Esther's and Kasy's notebooks. Combined these notecooks sort through a variety of nutritional and recipe-related datasets, that when certain values are entered into the input prompt, generate a series of lists and graphs that show nutritional value of various McDonal's food items or recipes. An example is given using Breakfast Foods under 600 calories in the data set and detailed results in the presentation file.
+Combined_work.ipynb is under the Combined_work folder and is a compilation of Susmitha's, Esther's and Kasy's notebooks. Combined, these notebooks sort through a variety of nutritional and recipe-related datasets and when certain values are entered into the input prompt, generate a series of lists and graphs that show nutritional value of various McDonal's food items or recipes. An example is given using Breakfast Foods under 600 calories in the data set and detailed results in the presentation file.
 
-The categories are highlighted in the notebook and detail the process in which the notebook is utilized and using which daatasets. 
+The categories are highlighted in the notebook and detail the process in which the notebook is utilized and using which datasets. 
 
-Priya's Notebook sorts through food desert data and farmer's market data collected by the Census and USDA. Through a process of cleaning and extrapolating various variables, this notebook highlights the relationship between said variables and generates the respective scatter plots. 
+Priya's Notebook sorts through food desert data and farmer's market data collected by the Census and USDA. Through a process of cleaning and extrapolating various variables, this notebook highlights the relationship between said variables and generates the respective scatter plots. Additional analysis regarding the dataset is detailed in the notebook as well. 
 
 The farmer's market data also takes a look at the accessibility of food assistance programs by state and the relationship to the food assistance program noted in the food desert data set. 
 
-Yash's Notebook dives deeper into the food deserts data to understand how this data plays into a particular state, in relation to the median income. His notebook also looks into the number of Starbucks and Fast Food restaurants vs farmers markets ratio by population of the state to get an idea the accessbility of healthier options that allow you to cook at home.  
+Yash's Notebook dives deeper into the food deserts data to understand how this data plays into a particular state, in relation to the median income. His notebook also looks into the number of Starbucks and Fast Food restaurants vs farmers markets ratio by population of the state to get an idea the accessbility of ingredients that allow you to cook at home.  
 
 
 ## Data Clean Up & Exploration 
