@@ -3,7 +3,6 @@ Food accessibility, health and food choices were the overarching themes of the F
 
 The presentation deck is a compilation of a series of datasets that look into each aspect of these themes and explore any caveats that can be used to further explain and understand the variety of ways in which this can can be used. 
 
-## Organization
 In the folder labeled "Resources & Notebooks" you will find the respective folders of resources used by each individual along with the respective notebook noted under their names. Combined_work is a compilation of Susmitha, Esther and Kasy's final analysis, code and respective charts, data and notebook in the respective folder. 
 
 Priya's Notebook and Priya's Resources highlight her final analysis, code and charts. 
