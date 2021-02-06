@@ -1,5 +1,5 @@
 # project_1 - Food for Thought
-Food accessibility, health and food choices were the overarching themes of the Food for Thought project. We looked to analyze how food accessibility and health may play into the choices an indiviual may make regarding food to fit their personal goals. 
+Food accessibility, health, and food choices were the overarching themes of the Food for Thought project. We analyzed how food accessibility and health may play into the choices an indiviual may make regarding food to fit their personal goals. 
 
 The presentation deck is a compilation of a series of datasets that look into each aspect of these themes and explore any caveats that can be used to further explain and understand the variety of ways in which this can can be used. 
 
